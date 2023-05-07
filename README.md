@@ -1,5 +1,5 @@
 # profcode
-Projes  Aplicações para internet
+Projetos aplicações para internet
 
 Projeto aula 02
 
